@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = QueuesGettingStarted
+build_property.ProjectDir = E:\Repos\azure-service-bus-master\azure-service-bus-master\samples\DotNet\Microsoft.Azure.ServiceBus\QueuesGettingStarted\
